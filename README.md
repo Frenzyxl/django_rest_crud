@@ -1,1 +1,1 @@
-# django_rest_crud
+# CRUD implementation with Django Rest Framework
